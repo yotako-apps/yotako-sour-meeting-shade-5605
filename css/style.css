@@ -1,0 +1,772 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style20 {
+    background-image: linear-gradient(96.5309664298851deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 262px;
+    flex-direction: column
+  }
+  .top375container6row0 {
+    display: flex;
+    margin-left: 12px;
+    margin-top: 30px;
+    width: 330px;
+    height: 49px;
+    align-items: stretch
+  }
+  .style23 {
+    background-image: linear-gradient(180deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 11px
+  }
+  .style21,
+  .style22 {
+    letter-spacing: 100px
+  }
+  .style22 {
+    margin-left: 10px;
+    color: #3498db;
+    font-family: Geo,serif;
+    font-size: 1.125em
+  }
+  .style21 {
+    color: #130b3d;
+    font-family: kozukaminchopro,serif;
+    font-size: .6875em;
+    margin-top: 20px;
+    height: 133px;
+    align-self: center
+  }
+  .style15 {
+    background-image: linear-gradient(-83.23648234236016deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 437px;
+    flex-direction: column
+  }
+  .top375container3row0 {
+    display: flex;
+    margin-left: 12px;
+    margin-top: 30px;
+    width: 277px;
+    height: 29px;
+    align-items: stretch
+  }
+  .style18 {
+    background-image: linear-gradient(0deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 11px
+  }
+  .style19 {
+    color: #abf4f3;
+    font-family: Geo,serif;
+    font-size: 1.5em;
+    margin-left: 10px
+  }
+  .style13,
+  .style17,
+  .style19 {
+    letter-spacing: 100px
+  }
+  .style17 {
+    align-self: center;
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: .6875em;
+    margin-top: 22px;
+    height: 327px
+  }
+  .style13 {
+    color: #2fbaf4;
+    font-family: Geo,serif;
+    font-size: 2.8125em;
+    margin-left: 18px;
+    margin-top: 18px;
+    height: 50px
+  }
+  .style14 {
+    background-color: #fff;
+    border-left: 3px solid #d49cff;
+    border-right: 3px solid #d49cff;
+    border-top: 3px solid #d49cff;
+    border-bottom: 3px solid #d49cff;
+    position: relative;
+    margin-left: 12px;
+    margin-top: 718px;
+    width: 15px;
+    height: 15px
+  }
+  .style1,
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: .75em;
+    letter-spacing: 100px;
+    margin-left: 12px;
+    margin-top: 53px;
+    height: 45px
+  }
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    margin-left: 11px;
+    margin-top: 20px;
+    height: 44px
+  }
+  .style10,
+  .style2,
+  .style6,
+  .style9 {
+    color: #fdfdfd;
+    margin-left: 12px;
+    height: 43px
+  }
+  .style10,
+  .style9 {
+    height: 51px
+  }
+  .style9 {
+    font-size: .6875em;
+    height: 66px
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/1ah44dk04nc0ms.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 12px;
+    margin-top: 21px;
+    width: 351px;
+    height: 180px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style7,
+  .style8 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: .6875em;
+    letter-spacing: 100px;
+    margin-left: 12px;
+    margin-top: 20px;
+    height: 40px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style8 {
+    margin-top: 10px;
+    height: 135px
+  }
+  .style11,
+  .style4,
+  .style8 {
+    margin-top: 20px;
+    height: 141px
+  }
+  .style11,
+  .style8 {
+    color: #f7f7f7;
+    height: 191px
+  }
+  .style11 {
+    color: #fff;
+    height: 68px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style20 {
+    background-image: linear-gradient(96.5309664298851deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 537px;
+    flex-direction: column
+  }
+  .top375container6row0 {
+    display: flex;
+    margin-left: 25px;
+    margin-top: 61px;
+    width: 676px;
+    height: 100px;
+    align-items: stretch
+  }
+  .style23 {
+    background-image: linear-gradient(180deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 23px
+  }
+  .style21,
+  .style22 {
+    letter-spacing: 205px
+  }
+  .style22 {
+    margin-left: 20px;
+    color: #3498db;
+    font-family: Geo,serif;
+    font-size: 2.3040000000000003em
+  }
+  .style21 {
+    color: #130b3d;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.408em;
+    margin-top: 41px;
+    height: 272px;
+    align-self: center
+  }
+  .style15 {
+    background-image: linear-gradient(-83.23648234236016deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 895px;
+    flex-direction: column
+  }
+  .top375container3row0 {
+    display: flex;
+    margin-left: 25px;
+    margin-top: 61px;
+    width: 567px;
+    height: 59px;
+    align-items: stretch
+  }
+  .style18 {
+    background-image: linear-gradient(0deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 23px
+  }
+  .style19 {
+    color: #abf4f3;
+    font-family: Geo,serif;
+    font-size: 3.072em;
+    margin-left: 20px
+  }
+  .style13,
+  .style17,
+  .style19 {
+    letter-spacing: 205px
+  }
+  .style17 {
+    align-self: center;
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.408em;
+    margin-top: 45px;
+    height: 670px
+  }
+  .style13 {
+    color: #2fbaf4;
+    font-family: Geo,serif;
+    font-size: 5.76em;
+    margin-left: 37px;
+    margin-top: 37px;
+    height: 102px
+  }
+  .style14 {
+    background-color: #fff;
+    border-left: 3px solid #d49cff;
+    border-right: 3px solid #d49cff;
+    border-top: 3px solid #d49cff;
+    border-bottom: 3px solid #d49cff;
+    position: relative;
+    margin-left: 25px;
+    margin-top: 1470px;
+    width: 31px;
+    height: 31px
+  }
+  .style1,
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.536em;
+    letter-spacing: 205px;
+    margin-left: 25px;
+    margin-top: 109px;
+    height: 92px
+  }
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    margin-left: 23px;
+    margin-top: 41px;
+    height: 90px
+  }
+  .style10,
+  .style2,
+  .style6,
+  .style9 {
+    color: #fdfdfd;
+    margin-left: 25px;
+    height: 88px
+  }
+  .style10,
+  .style9 {
+    height: 104px
+  }
+  .style9 {
+    font-size: 1.408em;
+    height: 135px
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/1ah44dk04nc0ms.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 25px;
+    margin-top: 43px;
+    width: 719px;
+    height: 369px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style7,
+  .style8 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.408em;
+    letter-spacing: 205px;
+    margin-left: 25px;
+    margin-top: 41px;
+    height: 82px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style8 {
+    margin-top: 20px;
+    height: 276px
+  }
+  .style11,
+  .style4,
+  .style8 {
+    margin-top: 41px;
+    height: 289px
+  }
+  .style11,
+  .style8 {
+    color: #f7f7f7;
+    height: 391px
+  }
+  .style11 {
+    color: #fff;
+    height: 139px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style20 {
+    background-image: linear-gradient(96.5309664298851deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 643px;
+    flex-direction: column
+  }
+  .top375container6row0 {
+    display: flex;
+    margin-left: 29px;
+    margin-top: 74px;
+    width: 810px;
+    height: 120px;
+    align-items: stretch
+  }
+  .style23 {
+    background-image: linear-gradient(180deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 27px
+  }
+  .style21,
+  .style22 {
+    letter-spacing: 245px
+  }
+  .style22 {
+    margin-left: 25px;
+    color: #3498db;
+    font-family: Geo,serif;
+    font-size: 2.76em
+  }
+  .style21 {
+    color: #130b3d;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.6866666666666665em;
+    margin-top: 49px;
+    height: 326px;
+    align-self: center
+  }
+  .style15 {
+    background-image: linear-gradient(-83.23648234236016deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 1072px;
+    flex-direction: column
+  }
+  .top375container3row0 {
+    display: flex;
+    margin-left: 29px;
+    margin-top: 74px;
+    width: 680px;
+    height: 71px;
+    align-items: stretch
+  }
+  .style18 {
+    background-image: linear-gradient(0deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 27px
+  }
+  .style19 {
+    color: #abf4f3;
+    font-family: Geo,serif;
+    font-size: 3.6799999999999997em;
+    margin-left: 25px
+  }
+  .style13,
+  .style17,
+  .style19 {
+    letter-spacing: 245px
+  }
+  .style17 {
+    align-self: center;
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.6866666666666665em;
+    margin-top: 54px;
+    height: 802px
+  }
+  .style13 {
+    color: #2fbaf4;
+    font-family: Geo,serif;
+    font-size: 6.8999999999999995em;
+    margin-left: 44px;
+    margin-top: 44px;
+    height: 123px
+  }
+  .style14 {
+    background-color: #fff;
+    border-left: 3px solid #d49cff;
+    border-right: 3px solid #d49cff;
+    border-top: 3px solid #d49cff;
+    border-bottom: 3px solid #d49cff;
+    position: relative;
+    margin-left: 29px;
+    margin-top: 1761px;
+    width: 37px;
+    height: 37px
+  }
+  .style1,
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.8399999999999999em;
+    letter-spacing: 245px;
+    margin-left: 29px;
+    margin-top: 130px;
+    height: 110px
+  }
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    margin-left: 27px;
+    margin-top: 49px;
+    height: 108px
+  }
+  .style10,
+  .style2,
+  .style6,
+  .style9 {
+    color: #fdfdfd;
+    margin-left: 29px;
+    height: 105px
+  }
+  .style10,
+  .style9 {
+    height: 125px
+  }
+  .style9 {
+    font-size: 1.6866666666666665em;
+    height: 162px
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/1ah44dk04nc0ms.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 29px;
+    margin-top: 52px;
+    width: 861px;
+    height: 442px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style7,
+  .style8 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 1.6866666666666665em;
+    letter-spacing: 245px;
+    margin-left: 29px;
+    margin-top: 49px;
+    height: 98px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style8 {
+    margin-top: 25px;
+    height: 331px
+  }
+  .style11,
+  .style4,
+  .style8 {
+    margin-top: 49px;
+    height: 346px
+  }
+  .style11,
+  .style8 {
+    color: #f7f7f7;
+    height: 469px
+  }
+  .style11 {
+    color: #fff;
+    height: 167px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style20 {
+    background-image: linear-gradient(96.5309664298851deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 838px;
+    flex-direction: column
+  }
+  .top375container6row0 {
+    display: flex;
+    margin-left: 38px;
+    margin-top: 96px;
+    width: 1056px;
+    height: 157px;
+    align-items: stretch
+  }
+  .style23 {
+    background-image: linear-gradient(180deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 35px
+  }
+  .style21,
+  .style22 {
+    letter-spacing: 320px
+  }
+  .style22 {
+    margin-left: 32px;
+    color: #3498db;
+    font-family: Geo,serif;
+    font-size: 3.6em
+  }
+  .style21 {
+    color: #130b3d;
+    font-family: kozukaminchopro,serif;
+    font-size: 2.2em;
+    margin-top: 64px;
+    height: 426px;
+    align-self: center
+  }
+  .style15 {
+    background-image: linear-gradient(-83.23648234236016deg,#9cfffe 0,#d49cff 100%);
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 1398px;
+    flex-direction: column
+  }
+  .top375container3row0 {
+    display: flex;
+    margin-left: 38px;
+    margin-top: 96px;
+    width: 886px;
+    height: 93px;
+    align-items: stretch
+  }
+  .style18 {
+    background-image: linear-gradient(0deg,#9cfffe 0,#d49cff 100%);
+    margin-left: 0;
+    width: 35px
+  }
+  .style19 {
+    color: #abf4f3;
+    font-family: Geo,serif;
+    font-size: 4.800000000000001em;
+    margin-left: 32px
+  }
+  .style13,
+  .style17,
+  .style19 {
+    letter-spacing: 320px
+  }
+  .style17 {
+    align-self: center;
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 2.2em;
+    margin-top: 70px;
+    height: 1046px
+  }
+  .style13 {
+    color: #2fbaf4;
+    font-family: Geo,serif;
+    font-size: 9em;
+    margin-left: 58px;
+    margin-top: 58px;
+    height: 160px
+  }
+  .style14 {
+    background-color: #fff;
+    border-left: 3px solid #d49cff;
+    border-right: 3px solid #d49cff;
+    border-top: 3px solid #d49cff;
+    border-bottom: 3px solid #d49cff;
+    position: relative;
+    margin-left: 38px;
+    margin-top: 2298px;
+    width: 48px;
+    height: 48px
+  }
+  .style1,
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 2.4000000000000004em;
+    letter-spacing: 320px;
+    margin-left: 38px;
+    margin-top: 170px;
+    height: 144px
+  }
+  .style10,
+  .style2,
+  .style3,
+  .style6,
+  .style9 {
+    margin-left: 35px;
+    margin-top: 64px;
+    height: 141px
+  }
+  .style10,
+  .style2,
+  .style6,
+  .style9 {
+    color: #fdfdfd;
+    margin-left: 38px;
+    height: 138px
+  }
+  .style10,
+  .style9 {
+    height: 163px
+  }
+  .style9 {
+    font-size: 2.2em;
+    height: 211px
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/1ah44dk04nc0ms.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 38px;
+    margin-top: 67px;
+    width: 1123px;
+    height: 576px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style7,
+  .style8 {
+    color: #fff;
+    font-family: kozukaminchopro,serif;
+    font-size: 2.2em;
+    letter-spacing: 320px;
+    margin-left: 38px;
+    margin-top: 64px;
+    height: 128px
+  }
+  .style11,
+  .style12,
+  .style4,
+  .style8 {
+    margin-top: 32px;
+    height: 432px
+  }
+  .style11,
+  .style4,
+  .style8 {
+    margin-top: 64px;
+    height: 451px
+  }
+  .style11,
+  .style8 {
+    color: #f7f7f7;
+    height: 611px
+  }
+  .style11 {
+    color: #fff;
+    height: 218px
+  }
+}
